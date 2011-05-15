@@ -6,4 +6,7 @@
     <string name="longitude">Longitude:</string>
     <string name="latitude">Latitude:</string>
     <string name="altitude">Altitude:</string>
+    <string name="accuracy">Accuracy:</string>
+    <string name="accuracy_description">Accuracy is measured in meters.</string>
+    <string name="accuracy_description2">Accuracy of 0.0 means it is not working.</string>
 </resources>
